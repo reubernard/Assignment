@@ -28,7 +28,7 @@ first_score = float(input('Enter your first score: '))
 second_score = float(input('Enter your second score: '))
 third_score = float(input('Enter your third score: '))
 
-average_score = first_score + second_score + third_score / 3
+average_score =(first_score + second_score + third_score) / 3
 print('Average score is: ', average_score)
 
 if (90 <= average_score <= 100):
