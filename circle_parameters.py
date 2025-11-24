@@ -1,4 +1,6 @@
-#Circle Area, Diameter and Circumference
+#initialize and assign values to the radius, diameter, pie, circumference
+#perform operations
+#print diameter, circumference and area
 
 radius = 2
 diameter = 2 * radius
