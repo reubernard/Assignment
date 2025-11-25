@@ -1,10 +1,12 @@
-#initialize the values of x and y
-#print the value of x in different form
+#initialize the values of two variables
+#print the value of first number
+#print the value of second number
+#an operation that shows that first number + second number = second number + first number
 
 
-x = 2
-y = 3
-print('x =', x)
-print('Value of', x, '+', x, 'is', (x + x))
-print('x =')
-print((x + y), '=', (y + x))
+number_one = 2
+number_two = 3
+print('first number =', number_one)
+print('Value of', number_one, '+', number_one, 'is', (number_one + number_one))
+print('second number =', number_two)
+print((number_one + number_two), '=', (number_two + number_one))
